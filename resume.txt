@@ -1,0 +1,6 @@
+empty resume for miniquest_thump2thump
+
+modify contents to test
+
+to test # 10
+'자격증, 대외활동, 사용기술'
